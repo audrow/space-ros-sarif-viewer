@@ -1,0 +1,7 @@
+sarifWorkspaces:
+  - name: build_results_20220930T022150Z
+    path: /home/user/space-ros-sarif-viewer/data/build_results_20220930T022150Z
+    date: 2022-09-30
+  - name: build_results_20221004T154249Z
+    path: /home/user/space-ros-sarif-viewer/data/build_results_20221004T154249Z
+    date: 2022-10-04
